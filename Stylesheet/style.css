@@ -1,0 +1,13 @@
+.nav.nav.nav-pills.nav-justified li a {
+    width: 200px;
+    margin: 0 10px;
+}
+
+
+.any-bin {
+    padding-top: 3px;
+}
+
+.any-bin-img{
+    max-height: 316px;
+}
